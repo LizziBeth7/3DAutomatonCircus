@@ -13,7 +13,7 @@
 
 <h3>Modelling</h3>
 <p>The animal models were then built in Maya along with the trapeeze, elephant ball and juggling balls. The tent model was downloaded from sketchfab but I haven't been able to relocate the link in order to reference it.</p>
-<p>
+<p align=center>
 <img src="https://i.imgur.com/lTnz4c7.png" width="33%" alt="Unicorn model">
 <img src="https://i.imgur.com/Q6AUEOg.png" width="33%" alt = "Bears Model">
 <img src="https://i.imgur.com/liiNe6F.png" width="33%" alt = "Elephant Model">
